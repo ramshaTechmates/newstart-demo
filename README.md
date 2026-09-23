@@ -1,2 +1,3 @@
 # newstart-demo
-my first repository
+my first repository.
+and I am the Author.
